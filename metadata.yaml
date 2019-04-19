@@ -1,0 +1,21 @@
+_repo: Easy-Does-It_59255
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Von Wald, E. G.
+    alias: Wald, E. G. von
+    gutenberg_agent_id: '26447'
+    url: http://www.gutenberg.org/2009/agents/26447
+description: ''
+gutenberg_issued: '2019-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Easy Does It
+url: http://www.gutenberg.org/ebooks/59255
