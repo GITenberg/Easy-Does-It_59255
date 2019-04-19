@@ -1,5 +1,8 @@
 _repo: Easy-Does-It_59255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59255-h/images/cover.jpg
 creator:
   author:
     agent_name: Von Wald, E. G.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '26447'
     url: http://www.gutenberg.org/2009/agents/26447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59255#Easy-Does-It
 gutenberg_issued: '2019-04-12'
 gutenberg_type: Text
 identifiers:
